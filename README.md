@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**Lindy20l/Lindy20l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lindy Saphira Elmius, estudante da Universidade Federal da Fronteira Sul (UFFS), apaixonado por programação e tecnologia.
 
-Here are some ideas to get you started:
+## Tecnologias e Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C:** Desenvolvimento de aplicações e algoritmos.
+- **JavaScript:** Desenvolvimento web e aplicativo.
+- **Python:** Desenvolvimento de scripts, análise de dados e automação.
+
+## Contato
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leissah)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindy-saphira-elmius-520b0a261/)]
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lindysaphiraelmius)
+
+
+
+## Objetivos
+
+Meu objetivo é aprender continuamente, contribuir para projetos interessantes e colaborar com a comunidade de desenvolvimento de software.
+
