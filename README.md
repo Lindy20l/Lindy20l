@@ -1,7 +1,12 @@
 # Olá! 👋
 
 Meu nome é Lindy Saphira Elmius, estudante da Universidade Federal da Fronteira Sul (UFFS), apaixonada por programação e tecnologia.
+
+
 My name is Lindy Saphira Elmius, a student at the Federal University of Fronteira Sul (UFFS), passionate about programming and technology.
+
+
+
 Je m'appelle Lindy Saphira Elmius, étudiante à l'Université Fédérale de Fronteira Sul (UFFS), passionnée par la programmation et la technologie.
 
 ## Tecnologias e Habilidades
